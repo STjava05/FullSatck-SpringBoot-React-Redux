@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "microservice-3c404",
+    "production": "microservice-3c404"
+  },
+  "targets": {},
+  "etags": {}
+}
